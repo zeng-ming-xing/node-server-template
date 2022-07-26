@@ -1,2 +1,2 @@
 # node-server-template
-服务端建议模板
+服务端简易模板
